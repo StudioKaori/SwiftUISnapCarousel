@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUISnapCarouselApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+          SnapCarouselView()
         }
     }
 }
